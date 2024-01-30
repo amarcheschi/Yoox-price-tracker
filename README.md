@@ -8,6 +8,7 @@ easyocr required
 if something else needs to be installed, install it
 use main to add new items of which you want to track the price
 use checker to see if the price of any of them has changed
+
 the json with the prices is saved in a folder "items" inside the folder where you run main.py
 if you want to run checker.py at startup, you should win+r, type shell:startup and make a cmd script there to run /path/to/checker.py
 
