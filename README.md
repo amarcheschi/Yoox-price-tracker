@@ -1,6 +1,6 @@
 # Yoox-price-tracker
 
-#i made it in a few hours so it might not be the most polished thing out there. A guy I know told me tot ry to scrape yoox prices, he told me it would have been hard since #they try to obfuscate the html. So, anyway, i started blasting. I scrape the page, i take a screenshot in selenium, then extract the price of an item (it works only in #italian yoox, you need to change the /it/ to /de/ or /fr/ or anything like that for other countries) with an ocr, it saves it to a file and you can check if it has changed #with the checker.py
+i made it in a few hours so it might not be the most polished thing out there. A guy I know told me tot ry to scrape yoox prices, he told me it would have been hard since #they try to obfuscate the html. So, anyway, i started blasting. I scrape the page, i take a screenshot in selenium, then extract the price of an item (it works only in #italian yoox, you need to change the /it/ to /de/ or /fr/ or anything like that for other countries) with an ocr, it saves it to a file and you can check if it has changed #with the checker.py
 
 #More detailed instructions
 #python required
